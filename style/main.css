@@ -1,0 +1,13 @@
+.center {
+    text-align: center;
+    position: relative;
+    top: 200px;
+}
+
+.textsearch {
+    width: 50%;
+    height: 35px;
+    top: 20px;
+    position: relative;
+}
+
